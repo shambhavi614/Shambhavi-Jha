@@ -79,18 +79,6 @@ An intelligent crop disease detection system that analyzes leaf images and predi
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shambhavi614&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://streak-stats.demolab.com/?user=shambhavi614&theme=tokyonight"/>
-
-</div>
-
----
-
 ## 🏆 GitHub Activity
 
 <div align="center">
