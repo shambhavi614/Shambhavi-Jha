@@ -83,9 +83,9 @@ An intelligent crop disease detection system that analyzes leaf images and predi
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shambhavi614&show_icons=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shambhavi614"/>
 
 </div>
 
@@ -95,7 +95,7 @@ An intelligent crop disease detection system that analyzes leaf images and predi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shambhavi614&layout=compact"/>
 
 </div>
 
@@ -105,7 +105,7 @@ An intelligent crop disease detection system that analyzes leaf images and predi
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME"/>
+<img src="https://github-profile-trophy.vercel.app/?username=shambhavi614"/>
 
 </div>
 
@@ -113,11 +113,9 @@ An intelligent crop disease detection system that analyzes leaf images and predi
 
 ## 📫 Connect With Me
 
-📧 Email: yourmail@gmail.com
+📧 Email: shambhavi6304@gmail.com
 
-💼 LinkedIn: your-linkedin-profile
-
-🌐 Portfolio: your-portfolio-link
+💼 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/shambhavi-jha-b0491b291/)
 
 ---
 
