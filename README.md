@@ -91,31 +91,22 @@ An intelligent crop disease detection system that analyzes leaf images and predi
 
 ---
 
-## 📈 Most Used Languages
+## 🏆 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shambhavi614&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shambhavi614&show_icons=true&theme=radical"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shambhavi614&theme=radical"/>
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shambhavi614&theme=algolia&no-frame=true"/>
-
-</div>
-
 ---
 
 ## 📫 Connect With Me
 
 📧 Email: shambhavi6304@gmail.com
 
-💼 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/shambhavi-jha-b0491b291/)
+💼 LinkedIn: [SHAMBHAVI JHA](https://www.linkedin.com/in/shambhavi-jha-b0491b291/)
 
 ---
 
