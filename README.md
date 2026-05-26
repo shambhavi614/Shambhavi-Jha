@@ -83,9 +83,9 @@ An intelligent crop disease detection system that analyzes leaf images and predi
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shambhavi614&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shambhavi614&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shambhavi614"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=shambhavi614&theme=tokyonight"/>
 
 </div>
 
@@ -95,7 +95,7 @@ An intelligent crop disease detection system that analyzes leaf images and predi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shambhavi614&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shambhavi614&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -105,7 +105,7 @@ An intelligent crop disease detection system that analyzes leaf images and predi
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shambhavi614"/>
+<img src="https://github-profile-trophy.vercel.app/?username=shambhavi614&theme=algolia&no-frame=true"/>
 
 </div>
 
